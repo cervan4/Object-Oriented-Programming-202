@@ -1,0 +1,6 @@
+Pineapple,Unions,Cilantro,Green Peppers,Red Unions,Mushrooms
+Asada,Lengua,Alpastor,Tripa,Carnitas,Cabeza
+Sausage,Ham,Beef,Bacon,Pepperoni,Premium Chicken
+Salsa Verde,Salsa Roja,Salsa de aguacate,Guacamole,Peppers
+Thin Crust,Stuffed Crust,Normal Crust
+Small,Medium,Large,Family Size
